@@ -1274,14 +1274,14 @@ VideoPlayer:
   m_TargetMaterialProperty: _MainTex
   m_RenderMode: 3
   m_AspectRatio: 2
-  m_DataSource: 0
+  m_DataSource: 1
   m_PlaybackSpeed: 10
   m_AudioOutputMode: 2
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: 
+  m_Url: https://github.com/Mouledoux/GL_T/blob/master/Assets/StreamingAssets/01_30_Once.mp4?raw=true
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
@@ -2033,15 +2033,14 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
-          m_MethodName: set_clip
-          m_Mode: 2
+          m_MethodName: set_url
+          m_Mode: 5
           m_Arguments:
-            m_ObjectArgument: {fileID: 32900000, guid: 183ed100a087b274aaa57c530813ba0b,
-              type: 3}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Video.VideoClip, UnityEngine
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: 
+            m_StringArgument: https://github.com/Mouledoux/GL_T/blob/master/Assets/StreamingAssets/01_30_Once.mp4?raw=true
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
@@ -2073,12 +2072,11 @@ MonoBehaviour:
             m_BoolArgument: 1
           m_CallState: 2
         - m_Target: {fileID: 975396157}
-          m_MethodName: set_clip
-          m_Mode: 2
+          m_MethodName: set_url
+          m_Mode: 5
           m_Arguments:
-            m_ObjectArgument: {fileID: 32900000, guid: 214a160624caa5843b47c979c83f74ef,
-              type: 3}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Video.VideoClip, UnityEngine
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
             m_StringArgument: 
@@ -2113,12 +2111,11 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
-          m_MethodName: set_clip
-          m_Mode: 2
+          m_MethodName: set_url
+          m_Mode: 5
           m_Arguments:
-            m_ObjectArgument: {fileID: 32900000, guid: 3f4f018edc6dd154f9a20a41e830f66d,
-              type: 3}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Video.VideoClip, UnityEngine
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
             m_StringArgument: 
@@ -2153,12 +2150,11 @@ MonoBehaviour:
             m_BoolArgument: 1
           m_CallState: 2
         - m_Target: {fileID: 975396157}
-          m_MethodName: set_clip
-          m_Mode: 2
+          m_MethodName: set_url
+          m_Mode: 5
           m_Arguments:
-            m_ObjectArgument: {fileID: 32900000, guid: 7279c4ba7f22a7f48be2639947f19ba8,
-              type: 3}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Video.VideoClip, UnityEngine
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
             m_StringArgument: 
@@ -2193,12 +2189,11 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
-          m_MethodName: set_clip
-          m_Mode: 2
+          m_MethodName: set_url
+          m_Mode: 5
           m_Arguments:
-            m_ObjectArgument: {fileID: 32900000, guid: 1f09569ebf8958744899e3e841c5c9fe,
-              type: 3}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Video.VideoClip, UnityEngine
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
             m_StringArgument: 
@@ -2233,12 +2228,11 @@ MonoBehaviour:
             m_BoolArgument: 1
           m_CallState: 2
         - m_Target: {fileID: 975396157}
-          m_MethodName: set_clip
-          m_Mode: 2
+          m_MethodName: set_url
+          m_Mode: 5
           m_Arguments:
-            m_ObjectArgument: {fileID: 32900000, guid: eaeccc257ab342549b65aef6be9ddaab,
-              type: 3}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Video.VideoClip, UnityEngine
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
             m_StringArgument: 
