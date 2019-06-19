@@ -1617,7 +1617,7 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: https://github.com/Mouledoux/GL_T/blob/master/Assets/Videos/01_30_Once.mp4?raw=true
+            m_StringArgument: https://cubicvideos.s3.us-east-2.amazonaws.com/01_30_Once.mp4
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
@@ -1656,7 +1656,7 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: https://github.com/Mouledoux/GL_T/blob/master/Assets/Videos/02_10_Loop.mp4?raw=true
+            m_StringArgument: https://cubicvideos.s3.us-east-2.amazonaws.com/02_10_Loop.mp4
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
@@ -1695,7 +1695,7 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: https://github.com/Mouledoux/GL_T/blob/master/Assets/Videos/03_45_Once.mp4?raw=true
+            m_StringArgument: https://cubicvideos.s3.us-east-2.amazonaws.com/03_45_Once.mp4
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
@@ -1734,7 +1734,7 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: https://github.com/Mouledoux/GL_T/blob/master/Assets/Videos/04_05_Loop.mp4?raw=true
+            m_StringArgument: https://cubicvideos.s3.us-east-2.amazonaws.com/04_05_Loop.mp4
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
@@ -1773,7 +1773,7 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: https://github.com/Mouledoux/GL_T/blob/master/Assets/Videos/05_60_Once.mp4?raw=true
+            m_StringArgument: https://cubicvideos.s3.us-east-2.amazonaws.com/05_60_Once.mp4
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
@@ -1812,7 +1812,7 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: https://github.com/Mouledoux/GL_T/blob/master/Assets/Videos/06_15_Loop.mp4?raw=true
+            m_StringArgument: https://cubicvideos.s3.us-east-2.amazonaws.com/06_15_Loop.mp4
             m_BoolArgument: 0
           m_CallState: 2
         - m_Target: {fileID: 975396157}
