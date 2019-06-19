@@ -22,7 +22,7 @@ public class EventManager : MonoBehaviour
         onNotify = TriggerNextEvent;
 
         sub.Subscribe("nextVideo", onNotify);
-
+        TriggerEventAtIndex(0);
     }
 
     void Update()
